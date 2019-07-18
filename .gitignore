@@ -1,1 +1,5 @@
 __pycache__
+.history
+hred.code-workspace
+.vccode
+conda-env
