@@ -3,3 +3,7 @@ __pycache__
 hred.code-workspace
 .vccode
 conda-env
+.ipynb_checkpoints
+data/id2condition
+data/id2vocab
+data/word2vec.bin
